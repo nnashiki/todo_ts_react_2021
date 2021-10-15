@@ -1,0 +1,2 @@
+- [x] `npx create-react-app myapp --template typescript`
+- [x] npm start
