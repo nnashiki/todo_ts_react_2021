@@ -1,2 +1,3 @@
 - [x] `npx create-react-app myapp --template typescript`
 - [x] npm start
+- [x] 同じコンポーネントにアイテム追加の処理を書いてみる
