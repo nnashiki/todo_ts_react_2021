@@ -1,3 +1,5 @@
 - [x] `npx create-react-app myapp --template typescript`
 - [x] npm start
 - [x] 同じコンポーネントにアイテム追加の処理を書いてみる
+- [x] Menu button から ルーティングを実行
+  - https://zenn.dev/h_yoshikawa0724/articles/2020-09-22-react-router#%E3%83%AB%E3%83%BC%E3%83%88%E9%9A%8E%E5%B1%A4%E3%81%A7%E3%80%81%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E5%85%A8%E4%BD%93%E3%82%92%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E3%81%A7%E5%9B%B2%E3%81%86
